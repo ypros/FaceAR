@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		192DFD3226FB53AF008C8B10 /* goggles.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 192DFD3126FB53AF008C8B10 /* goggles.rcproject */; };
 		19FCFDB326FAFA6E0009B744 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FCFDB226FAFA6E0009B744 /* AppDelegate.swift */; };
 		19FCFDB526FAFA6E0009B744 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FCFDB426FAFA6E0009B744 /* ContentView.swift */; };
-		19FCFDB726FAFA6E0009B744 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 19FCFDB626FAFA6E0009B744 /* Experience.rcproject */; };
 		19FCFDB926FAFA700009B744 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19FCFDB826FAFA700009B744 /* Assets.xcassets */; };
 		19FCFDBC26FAFA700009B744 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19FCFDBB26FAFA700009B744 /* Preview Assets.xcassets */; };
 		19FCFDBF26FAFA700009B744 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19FCFDBD26FAFA700009B744 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		192DFD3126FB53AF008C8B10 /* goggles.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = goggles.rcproject; sourceTree = SOURCE_ROOT; };
 		19FCFDAF26FAFA6E0009B744 /* FaceAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		19FCFDB226FAFA6E0009B744 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		19FCFDB426FAFA6E0009B744 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		19FCFDB626FAFA6E0009B744 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		19FCFDB826FAFA700009B744 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		19FCFDBB26FAFA700009B744 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		19FCFDBE26FAFA700009B744 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,8 +58,8 @@
 			children = (
 				19FCFDB226FAFA6E0009B744 /* AppDelegate.swift */,
 				19FCFDB426FAFA6E0009B744 /* ContentView.swift */,
-				19FCFDB626FAFA6E0009B744 /* Experience.rcproject */,
 				19FCFDB826FAFA700009B744 /* Assets.xcassets */,
+				192DFD3126FB53AF008C8B10 /* goggles.rcproject */,
 				19FCFDBD26FAFA700009B744 /* LaunchScreen.storyboard */,
 				19FCFDC026FAFA700009B744 /* Info.plist */,
 				19FCFDBA26FAFA700009B744 /* Preview Content */,
@@ -147,7 +147,7 @@
 			files = (
 				19FCFDB526FAFA6E0009B744 /* ContentView.swift in Sources */,
 				19FCFDB326FAFA6E0009B744 /* AppDelegate.swift in Sources */,
-				19FCFDB726FAFA6E0009B744 /* Experience.rcproject in Sources */,
+				192DFD3226FB53AF008C8B10 /* goggles.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +216,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -271,7 +271,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
