@@ -26,7 +26,7 @@ struct ARViewContainer: UIViewRepresentable {
         }
         
         let configuration = ARFaceTrackingConfiguration()
-        configuration.isLightEstimationEnabled = true
+        //configuration.isLightEstimationEnabled = true
         
         arView.session.run(configuration, options: [])
         

@@ -1,0 +1,1133 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "994B8FC2-B586-4D9D-B2D4-C41375D6D1DC",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "788FBDE5-D7E8-400D-A75E-D4801AD2E7B5" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Bagel"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Stylized"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "iconicItem" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "184185AA-6B60-4E58-890A-65EA13465AE1"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "03AFF55B-2C81-4A4B-9112-B6E0B036C47D"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.Bagel.f945bb65-d642-46e8-82ae-f48fac81e799",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6025F40D-4519-44B2-AA17-B8321F52FD4A"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.5,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.5,
+                        5.4622837286286141e-14,
+                        0,
+                        0,
+                        -5.4622837286286141e-14,
+                        0.5,
+                        0,
+                        -0.034000001847743988,
+                        0.037000000476837158,
+                        -0.02199999988079071,
+                        1
+                      ]
+                    }
+                  },
+                  "6066073B-7226-4694-BA30-701AA3832F31" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Bagel"
+                          }
+                        ],
+                        [
+                          "material",
+                          {
+                            "typeName" : "String",
+                            "value" : "paintEnamelMatte"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Stylized"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "iconicItem" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "BCD4868E-5476-4FFE-8B61-0FD7134CF5C5"
+                                }
+                              ]
+                            ]
+                          }
+                        },
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "AFFF56F5-2199-4247-91EA-32F033EC75D6"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.Bagel.f945bb65-d642-46e8-82ae-f48fac81e799",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "39DB7AA8-1800-4F55-B3E9-4928B570036E"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.5,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.5,
+                        7.4107237815930482e-14,
+                        0,
+                        0,
+                        -7.4107237815930482e-14,
+                        0.5,
+                        0,
+                        0.034000001847743988,
+                        0.036996997892856598,
+                        -0.021999306976795197,
+                        1
+                      ]
+                    }
+                  },
+                  "13639844-3F92-4624-A14F-D4FEA56B4C3F" : null,
+                  "E16C9ACC-0071-443A-BCCE-1D03139F45FB" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "foodGoggles1",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99828034639358521,
+                  -1.145297079396812e-09,
+                  0.05862010270357132,
+                  0,
+                  -0.0077078291215002537,
+                  0.99131739139556885,
+                  0.1312650591135025,
+                  0,
+                  -0.058111272752285004,
+                  -0.1314910352230072,
+                  0.98961269855499268,
+                  0,
+                  0.055723626166582108,
+                  -0.065419398248195648,
+                  0.63274180889129639,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        },
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "17FC34FE-E378-42FB-A4E9-A505D4311A4B",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "9E4D7CEC-3C84-46CE-8864-0D717E7904A7" : null,
+                  "3047FB2C-40C6-4446-9849-34D07789BA06" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Chocolate Doughnut"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Realistic"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "1B2D9BA3-23A4-4FC9-938A-3962305F64E7"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.ChocolateDoughnut.e44bcd2a-9bc3-45ef-9fe3-05c5d4030a01",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "C80F68CF-1E5C-49DC-9C2C-B4EFAF7EE701"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.58232885599136353,
+                        0.15633934736251831,
+                        3.8598715335069755e-09,
+                        0,
+                        -0.15633933246135712,
+                        0.58232879638671875,
+                        -6.3337729727663827e-08,
+                        0,
+                        -2.0150745072555765e-08,
+                        6.0170705751261266e-08,
+                        0.60295009613037109,
+                        0,
+                        -0.041722632944583893,
+                        0.064358003437519073,
+                        -0.017959078773856163,
+                        1
+                      ]
+                    }
+                  },
+                  "B150D97A-C695-40A3-9431-387F38D8288A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Chocolate Doughnut"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Realistic"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "792E5A3E-886A-4EE0-82CA-2A83CE98D2FD"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.ChocolateDoughnut.e44bcd2a-9bc3-45ef-9fe3-05c5d4030a01",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "F2D991B2-A2E1-459B-9F13-63D78C74E5C2"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.5625079870223999,
+                        0.15093167126178741,
+                        -0.15605421364307404,
+                        0,
+                        0.1562560647726059,
+                        0.5823512077331543,
+                        -1.1455438198026968e-07,
+                        0,
+                        0.15072281658649445,
+                        -0.040441948920488358,
+                        -0.5824049711227417,
+                        0,
+                        0.041033580899238586,
+                        0.064335420727729797,
+                        -0.018617035821080208,
+                        1
+                      ]
+                    }
+                  },
+                  "CAC1D315-4DDC-4161-8717-59224FDCB967" : null,
+                  "D37C8D36-870E-4C8E-B3C2-4A70B95F5798" : null,
+                  "DE0C7F26-CB51-41A5-8104-8ABD7CB03471" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "foodGoggles2",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99454575777053833,
+                  -2.4329631642672211e-09,
+                  -0.1043010875582695,
+                  0,
+                  0.012326140888035297,
+                  0.99299228191375732,
+                  0.11753439158201218,
+                  0,
+                  0.10357023775577545,
+                  -0.11817878484725952,
+                  0.98757630586624146,
+                  0,
+                  0.02814977616071701,
+                  -0.10521538555622101,
+                  0.33579322695732117,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        },
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "D7560536-30F2-47B9-9126-60DCA7529372",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "5F334B30-C6C1-420F-9C7B-42A731C68372" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Cookie"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Stylized"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "964E4B90-C165-4E57-A471-85B0ECC8F5CD"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.Cookie.ba5793fd-c788-450b-ad50-84aee046ec26",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "A83A6282-8CE7-47BB-B81E-1F18D15EC3B5"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.0596057176589966,
+                        0.28336626291275024,
+                        6.9960344184494261e-09,
+                        0,
+                        -0.28336626291275024,
+                        1.0596057176589966,
+                        -9.1927448986339755e-10,
+                        0,
+                        -6.9960259807544389e-09,
+                        -9.1934143631178245e-10,
+                        1.0968412160873413,
+                        0,
+                        -0.033023528754711151,
+                        0.046798087656497955,
+                        -0.019420210272073746,
+                        1
+                      ]
+                    }
+                  },
+                  "58D28C7E-D013-480F-B345-1AB063216607" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Cookie"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Stylized"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "41B93CBE-E6D6-4048-A5DB-0D34D9042995"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.Cookie.ba5793fd-c788-450b-ad50-84aee046ec26",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "49AAD873-BF51-4816-929E-8F288963198D"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -1.0600932836532593,
+                        0.28349593281745911,
+                        0.00051979534327983856,
+                        0,
+                        0.28349581360816956,
+                        1.0600930452346802,
+                        -0.00013903860235586762,
+                        0,
+                        -0.00053806975483894348,
+                        -3.1050721105430057e-08,
+                        -1.0973460674285889,
+                        0,
+                        0.031509116291999817,
+                        0.04679759219288826,
+                        -0.01802142895758152,
+                        1
+                      ]
+                    }
+                  },
+                  "568ADDB3-33B3-4BB0-A92B-82509514A982" : null,
+                  "BBF291D6-54A2-48FD-817D-42F4075D1D69" : null,
+                  "ECCA1D76-1FC0-48F9-B190-EE7BF584420F" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "foodGoggles3",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99110716581344604,
+                  8.1637789861588317e-09,
+                  0.13306622207164764,
+                  0,
+                  -0.031759023666381836,
+                  0.97110050916671753,
+                  0.2365485280752182,
+                  0,
+                  -0.12922073900699615,
+                  -0.23867088556289673,
+                  0.96246463060379028,
+                  0,
+                  0.0011258721351623535,
+                  -0.029121214523911476,
+                  0.25836437940597534,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        },
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "1B776766-17BD-4E39-8464-8C567B424D43",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "7CCDD71C-AC5E-488F-BD29-D2A3DC274D07" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Pizza Slice"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Stylized"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "F4532625-AD88-42BF-97B9-7B708CF82DA3"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.PizzaSlice.ac446f0e-837a-432e-96a4-145a39097f20",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "2B0832FC-70EC-4358-8466-EAF9A415C4DE"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.43460988998413086,
+                        0.11668078601360321,
+                        0.77942264080047607,
+                        0,
+                        0.23336124420166016,
+                        0.86921948194503784,
+                        -1.3411045074462891e-07,
+                        0,
+                        -0.752765953540802,
+                        0.20209665596485138,
+                        -0.45000019669532776,
+                        0,
+                        0.025816218927502632,
+                        0.052926305681467056,
+                        -0.027839791029691696,
+                        1
+                      ]
+                    }
+                  },
+                  "45C60EA2-907D-44B3-A3D4-4B7D2F351BB8" : null,
+                  "4559A505-8B62-49B7-AB17-347C63672CE8" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Pizza Slice"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Stylized"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "38B0CEBF-334A-4ADF-BADC-66AEB25197F7"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.PizzaSlice.ac446f0e-837a-432e-96a4-145a39097f20",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "106BF634-FB8F-4F02-A069-E8D2E88EA452"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.43434843420982361,
+                        -0.11661096662282944,
+                        -0.7795788049697876,
+                        0,
+                        -0.23336143791675568,
+                        0.86921942234039307,
+                        -4.2915343101412873e-07,
+                        0,
+                        0.75291681289672852,
+                        0.20213718712329865,
+                        -0.44972950220108032,
+                        0,
+                        -0.024893255904316902,
+                        0.052961111068725586,
+                        -0.027631115168333054,
+                        1
+                      ]
+                    }
+                  }
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "foodGoggles4",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.99889856576919556,
+                  -2.0843733405939702e-09,
+                  -0.046922605484724045,
+                  0,
+                  -0.0010854651918634772,
+                  0.9997323751449585,
+                  -0.023110032081604004,
+                  0,
+                  0.046910058706998825,
+                  0.023135846480727196,
+                  0.99863111972808838,
+                  0,
+                  0.042454242706298828,
+                  0.01727544330060482,
+                  0.45439258217811584,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        },
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "name" : "face"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                0,
+                9.8000001907348633
+              ],
+              "identifier" : "8D80D04C-515F-41AC-A87D-81280CC72467",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "3BE5225C-7854-4DAA-857A-952FF9030675" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Slice of Bread"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Realistic"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "51890D80-F1E4-4CF2-BC29-62D81388A8B7"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.SliceBread.3cc9d218-7648-490f-a091-15663b878aae",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "5154D43C-C4E7-477E-A3A0-851C65D0D0CB"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        -0.49619993567466736,
+                        -0.043411899358034134,
+                        -0.043577905744314194,
+                        0,
+                        -0.0434269979596138,
+                        -0.0036284856032580137,
+                        0.49809637665748596,
+                        0,
+                        -0.043562851846218109,
+                        0.49809560179710388,
+                        -0.00016957419575192034,
+                        0,
+                        -0.03333132341504097,
+                        0.053976841270923615,
+                        -0.045248214155435562,
+                        1
+                      ]
+                    }
+                  },
+                  "8109AD55-AB92-4FC6-B1B5-072B4E12FB36" : null,
+                  "73582E2E-EB99-41E0-A404-A8F0AD7A4FF4" : null,
+                  "F5F4E49F-A6BB-49B6-B6C4-857DC4DFA744" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "item",
+                          {
+                            "typeName" : "String",
+                            "value" : "Slice of Bread"
+                          }
+                        ],
+                        [
+                          "style",
+                          {
+                            "typeName" : "String",
+                            "value" : "Realistic"
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "item" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "FC398069-730F-45E6-A21C-AC1F17879E96"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.SliceBread.3cc9d218-7648-490f-a091-15663b878aae",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "DF6D61A0-2C7A-4E17-8076-F84A56CA915C"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.49324876070022583,
+                        -0.069321401417255402,
+                        -0.043577730655670166,
+                        0,
+                        0.043130461126565933,
+                        -0.0062296832911670208,
+                        0.49809607863426208,
+                        0,
+                        -0.069600455462932587,
+                        -0.49513009190559387,
+                        -0.00016581948148086667,
+                        0,
+                        0.032427363097667694,
+                        0.059055991470813751,
+                        -0.045248456299304962,
+                        1
+                      ]
+                    }
+                  }
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "foodGoggles5",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.9872739315032959,
+                  4.1795247263110014e-09,
+                  -0.15902917087078094,
+                  0,
+                  -0.0078780446201562881,
+                  0.99877220392227173,
+                  -0.048907257616519928,
+                  0,
+                  0.15883395075798035,
+                  0.049537785351276398,
+                  0.986061692237854,
+                  0,
+                  0.038956869393587112,
+                  -0.0023846682161092758,
+                  0.26142790913581848,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
